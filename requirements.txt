@@ -1,0 +1,6 @@
+bert_score==0.3.13
+datasets==2.19.1
+pandas==2.2.3
+scikit_learn==1.6.0
+torch==2.5.1+cu121
+transformers==4.47.0
