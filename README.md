@@ -1,5 +1,7 @@
 # Advanced Topics in Machine Learning Coursework
 
+-- Brandon
+
 > This implementation effectively integrates language model generation capabilities with multidimensional quality
 evaluation, providing an innovative solution for natural language generation tasks.
 
@@ -182,7 +184,7 @@ atml-cw:
 │  │      events.out.tfevents.1734459492.Brandon.7537.0
 │  │
 │  └─origin
-│          events.out.tfevents.1734494385.friedorange.10572.0
+│         events.out.tfevents.1734494385.friedorange.10572.0
 │
 └─train-results
     ├─png
@@ -206,3 +208,15 @@ atml-cw:
 <img src="train-results/svg/eval_loss.svg" width="50%"><img src="train-results/svg/eval_runtime.svg" width="50%">
 
 <img src="train-results/svg/eval_samples_per_second.svg" width="50%"><img src="train-results/svg/eval_steps_per_second.svg" width="50%">
+
+# Author
+
+This project is developed and maintained by:
+
+- **Name** (Jiaxin Tang): [GitHub Profile Link](https://github.com/DjyBrandon)
+- **Name** (Jiayi Dong): [GitHub Profile Link](https://github.com/DjyBrandon)
+- **Name** (Ximing Cai): [GitHub Profile Link](https://github.com/DjyBrandon)
+
+# License
+
+This project is licensed under the [Apache-2.0 License](LICENSE).
