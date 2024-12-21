@@ -210,7 +210,7 @@ atml-cw:
 
 This project is developed and maintained by:
 
-- **Name** (Jiaxin Tang): [GitHub Profile Link](https://github.com/DjyBrandon)
+- **Name** (Jiaxin Tang): [GitHub Profile Link](https://github.com/scxjt2)
 - **Name** (Jiayi Dong): [GitHub Profile Link](https://github.com/DjyBrandon)
 - **Name** (Ximing Cai): [GitHub Profile Link](https://github.com/DjyBrandon)
 
