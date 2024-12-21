@@ -8,8 +8,7 @@ evaluation, providing an innovative solution for natural language generation tas
 ### 1.1 Clone Project (<mark>Recommend Baidu Net-disk Method</mark>)
 
 1. Github (no gpt2-jokes train models): `git clone https://github.com/DjyBrandon/atml-cw`
-2. [Baidu Net-disk](https://pan.baidu.com/s/1SQGKoOBQICSpAwXByzOFkQ?pwd=f7rw) (including gpt2-jokes train models):
-   download full code
+2. Baidu Net-disk (including gpt2-jokes train models): [download full code](https://pan.baidu.com/s/1SQGKoOBQICSpAwXByzOFkQ?pwd=f7rw)
 
 ### 1.2 Install Dependencies
 
