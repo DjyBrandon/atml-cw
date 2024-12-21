@@ -7,7 +7,7 @@ This implementation effectively integrates language model generation capabilitie
 ### 1.1 Clone Project
 
 ```shell
-git clone https://github.com/xxx/atml-cw.git
+git clone https://github.com/DjyBrandon/atml-cw.git
 ```
 or run local.
 
