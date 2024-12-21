@@ -1,7 +1,5 @@
 # Advanced Topics in Machine Learning Coursework
 
--- Brandon
-
 > This implementation effectively integrates language model generation capabilities with multidimensional quality
 evaluation, providing an innovative solution for natural language generation tasks.
 
