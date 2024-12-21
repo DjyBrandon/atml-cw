@@ -1,6 +1,6 @@
-# COMP4132 Advanced Topics in Machine Learning Coursework
+# Advanced Topics in Machine Learning Coursework
 
-This implementation effectively integrates language model generation capabilities with multidimensional quality
+> This implementation effectively integrates language model generation capabilities with multidimensional quality
 evaluation, providing an innovative solution for natural language generation tasks.
 
 ## 1 Installation Step
