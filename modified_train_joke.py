@@ -113,8 +113,8 @@ trainer = Trainer(
 trainer.train()
 
 # Save the trained model and tokenizer
-model.save_pretrained("gpt2-jokes/origin")
-tokenizer.save_pretrained("gpt2-jokes/origin")
-trainer.save_model("gpt2-jokes/origin")
+model.save_pretrained("gpt2-jokes/modified")
+tokenizer.save_pretrained("gpt2-jokes/modified")
+trainer.save_model("gpt2-jokes/modified")
 
 print(f"Finish Training.")
